@@ -28,18 +28,18 @@ Follow these steps to set up and run the project locally:
 
 ### Clone the Repository
 
-[git clone https://github.com/ogicesur/book-library.git]
-[cd book-library]
+`git clone https://github.com/ogicesur/book-library.git`
+`cd book-library`
 
 ### Install Dependencies
 
 Run the following command to install all required dependencies:
-[npm install]
+`npm install`
 
 ### Run the Development Server
 
 Start the application in development mode:
 
-[npm start]
+`npm start`
 
 
