@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 
 ### Clone the Repository
 
-`git clone https://github.com/ogicesur/book-library.git`
+`git clone https://github.com/ogicesur/book-library.git` \n
 `cd book-library`
 
 ### Install Dependencies
